@@ -20,7 +20,9 @@ train_LLM_VC_1.py
 Our work has been accepted by ICCV 2025
 ----------------------------------------------------------------------------------------------------------------------------------
 **Player-Centric Multimodal Prompt Generation for Large Language Model Based Identity-Aware Basketball Video Captioning**
+
 Cite this paper:
+
 @inproceedings{xi2025player,
   title={Player-Centric Multimodal Prompt Generation for Large Language Model Based Identity-Aware Basketball Video Captioning},
   author={Xi, Zeyu and Sun, Haoying and Wu, Yaofei and Yan, Junchi and Zhang, Haoran and Wu, Lifang and Wang, Liang and Chen, Changwen},
