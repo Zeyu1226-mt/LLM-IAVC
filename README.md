@@ -16,3 +16,21 @@ player_train_timesformer.py
 
 3 Stage_two for identity-aware sports video captioning:
 train_LLM_VC_1.py
+
+Our work has been accepted by ICCV 2025
+----------------------------------------------------------------------------------------------------------------------------------
+**Player-Centric Multimodal Prompt Generation for Large Language Model Based Identity-Aware Basketball Video Captioning**
+Cite this paper:
+@inproceedings{xi2025player,
+  title={Player-Centric Multimodal Prompt Generation for Large Language Model Based Identity-Aware Basketball Video Captioning},
+  author={Xi, Zeyu and Sun, Haoying and Wu, Yaofei and Yan, Junchi and Zhang, Haoran and Wu, Lifang and Wang, Liang and Chen, Changwen},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={24330--24339},
+  year={2025}
+}
+
+Acknowledgements
+----------------------------------------------------------------------------------------------------------------------------------
+Many thanks to the code bases from Detector-free [1] and MatchTime [2].
+[1] Kim, Dongkeun, et al. "Detector-free weakly supervised group activity recognition." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2022.
+[2] Rao, Jiayuan, et al. "MatchTime: Towards Automatic Soccer Game Commentary Generation." Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing. 2024.
