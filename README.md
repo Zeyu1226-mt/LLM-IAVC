@@ -33,5 +33,9 @@ Cite this paper:
 ```
 Acknowledgements
 ----------------------------------------------------------------------------------------------------------------------------------
-Many thanks to the code bases from Detector-free <https://github.com/dk-kim/DFWSGAR> and MatchTime.
+Many thanks to the code bases from [Detector-free](https://github.com/dk-kim/DFWSGAR) and [MatchTime](https://github.com/jyrao/MatchTime).
+
+Contact
+----------------------------------------------------------------------------------------------------------------------------------
+If you have any questions, please feel free to contact [Xi Zeyu](xi961226@163.com).
 
