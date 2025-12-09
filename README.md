@@ -37,5 +37,5 @@ Many thanks to the code bases from [Detector-free](https://github.com/dk-kim/DFW
 
 Contact
 ----------------------------------------------------------------------------------------------------------------------------------
-If you have any questions, please feel free to contact [Xi Zeyu](xi961226@163.com).
+If you have any questions, please feel free to contact [Zeyu Xi](xi961226@163.com).
 
