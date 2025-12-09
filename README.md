@@ -34,5 +34,7 @@ Cite this paper:
 Acknowledgements
 ----------------------------------------------------------------------------------------------------------------------------------
 Many thanks to the code bases from Detector-free [1] and MatchTime [2].
+
 [1] Kim, Dongkeun, et al. "Detector-free weakly supervised group activity recognition." Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2022.
+
 [2] Rao, Jiayuan, et al. "MatchTime: Towards Automatic Soccer Game Commentary Generation." Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing. 2024.
