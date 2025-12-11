@@ -33,7 +33,7 @@ Cite this paper:
 ```
 Acknowledgements
 ----------------------------------------------------------------------------------------------------------------------------------
-Many thanks to the code bases from [Detector-free](https://github.com/dk-kim/DFWSGAR) and [MatchTime](https://github.com/jyrao/MatchTime).
+Many thanks to the code bases from [Detector-free](https://github.com/dk-kim/DFWSGAR), [MatchTime](https://github.com/jyrao/MatchTime), [Clip4Caption](https://github.com/liupeng0606/clip4caption), and [NSVA](https://github.com/jackwu502/NSVA).
 
 Contact
 ----------------------------------------------------------------------------------------------------------------------------------
